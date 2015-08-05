@@ -32,7 +32,11 @@ Latest Version: 1.7.4
 You're running an up-to-date version of Vagrant!
 ```
 
-Now we need to clone the configuration file for the vagrant box. Inside a terminal `$cd to_your_preferred_folder`
+Now we need to clone the configuration file for the vagrant box. 
+Inside a terminal 
+```
+$ cd to_your_preferred_folder
+```
 
 ```
 $ mkdir sws
